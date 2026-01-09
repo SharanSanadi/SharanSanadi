@@ -1,6 +1,10 @@
 ## Hi there 👋
 # 💫 About Me:
-👋 About Me<br>Hi there! I’m Sharan, a passionate Computer Science student who loves building things with code and constantly learning new technologies.<br>I have hands-on experience with Java, C, Python, HTML, CSS, JavaScript, and modern backend & frontend tools like Node.js, Express, React, and MongoDB.<br>Right now, I’m diving deeper into LLM applications and AI-powered systems, exploring how large language models can be integrated into real-world products. I enjoy solving problems, writing clean code, and improving my skills every single day 🚀<br>I’m actively working on personal projects and sharpening my DSA, system design, and full-stack development skills with the goal of becoming a high-impact software engineer.<br><br>🛠️ Tech Stack<br>Languages: Java, C, Python, JavaScript<br>Frontend: HTML, CSS, React<br>Backend: Node.js, Express<br>Database: MongoDB<br>Currently Learning: LLMs, AI application development, backend scalability<br><br>⚡ Fun Fact<br>Consistency > motivation. Always. 💪
+Hi there! I’m Sharan, a Computer Science student who enjoys building real-world applications and learning new technologies through hands-on development.
+
+I primarily focus on full-stack development, creating backend services and interactive user interfaces, while also strengthening my Data Structures & Algorithms for writing efficient and scalable code. Alongside development, I’m exploring AI and LLM applications, learning how intelligent systems can be integrated into modern software products 🤖🚀
+
+I actively work on projects, improve my development workflow, and refine my problem-solving skills with the goal of becoming a high-impact software engineer.
 
 
 # 💻 Tech Stack:
