@@ -1,4 +1,5 @@
 ## Hi there 👋
+https://readme-typing-svg.demolab.com/demo/?color=22F7BC&lines=I'M+SHARAN+SANADI
 # 💫 About Me:
 Hi there! I’m Sharan, a Computer Science student who enjoys building real-world applications and learning new technologies through hands-on development.
 
