@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://readme-typing-svg.demolab.com/demo/?color=22F7BC&lines=I'M+SHARAN+SANADI
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F7BC&width=435&lines=I'M+SHARAN+SANADI)](https://git.io/typing-svg)
 # 💫 About Me:
 Hi there! I’m Sharan, a Computer Science student who enjoys building real-world applications and learning new technologies through hands-on development.
 
